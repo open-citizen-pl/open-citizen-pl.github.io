@@ -36,6 +36,9 @@ jobs:
           # https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
           cache-dependency-path: '**/package-lock.json'
 
+      - name: Install node
+        run: npm i
+
       - name: Run node
         run: npm ci
 
