@@ -1,1 +1,3 @@
-# open-citizen-pl.github.io
+# Projekt Open Citizen
+
+Pierwszy commit.
