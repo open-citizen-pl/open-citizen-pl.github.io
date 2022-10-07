@@ -1,0 +1,5 @@
+baseURL = 'https://open-citizen-pl.github.io/'
+languageCode = 'pl-pl'
+title = 'Open Citizen'
+theme = 'ananke'
+
